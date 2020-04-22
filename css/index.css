@@ -21,21 +21,13 @@ h1{
     font-weight: blod;
 }
 
-.box{
-    display: flex;
-    flex-wrap: wrap;
-    width: 420px;
-    margin: 20px auto;
-}
-.box{
-    margin: 5px;
-}
+
 div.box1{
     height:100pt ;
     width: 100pt;
     background-color: royalblue;
     text-align: center;
-    border-radius:50% 50% 0 50% ;
+    border-radius:100px ;
     
 }
 
@@ -54,15 +46,4 @@ div.box3{
     background-color: greenyellow;
     text-align: center;
     border-radius:50% 0 50% 50% ;
-    
-    
-}
-
-div.box4 {
-    height:100pt ;
-    width: 100pt;
-    background-color: greenyellow;
-    text-align: center;
-    border-radius:0 50% 50% 50% ;
-    
 }
