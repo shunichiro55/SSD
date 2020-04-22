@@ -1,0 +1,21 @@
+p.sub-title1
+{
+    color: aqua;
+}
+
+p#sub-title2
+{
+    color: pink;
+}
+
+span.company
+{
+    font-weight: bold;
+    color: red;
+}
+
+h1{
+    color: purple;
+    font-size: 50pt;
+    font-weight: blod;
+}
