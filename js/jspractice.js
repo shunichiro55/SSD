@@ -1,3 +1,5 @@
+'use strict'
+
 // document.write("Hello World!");
 // alert("Hello World!");
 
@@ -28,8 +30,6 @@
 // console.log(x2);
 // console.log(y2);
 
-'use strict'
-
 // let age = 30;
 // const name ="田中太郎";
 
@@ -37,12 +37,12 @@
 
 // console.log(`${name}さんの年齢は${age}です`);
 
-let testScore = 60;
+// let testScore = 60;
 
-if(testScore >= 80){
-    document.write("合格です！おめでとう！");
-}else if(testScore>=70){
-    document.write("惜しい！あと少し頑張って！");
-}else{
-    document.write("不合格です！勉強して再挑戦しましょう！")
-}
+// if(testScore >= 80){
+//     document.write("合格です！おめでとう！");
+// }else if(testScore>=70){
+//     document.write("惜しい！あと少し頑張って！");
+// }else{
+//     document.write("不合格です！勉強して再挑戦しましょう！")
+// }

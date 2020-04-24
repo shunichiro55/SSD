@@ -1,6 +1,8 @@
 p.sub-title1
 {
     color: aqua;
+    font-family: fantasy;
+    font-weight: bold;
 }
 
 p#sub-title2
